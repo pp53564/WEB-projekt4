@@ -1,0 +1,35 @@
+/* Styles for the Introduction section */
+#img {
+   background-color: #f5f5f5;
+   padding: 20px;
+   border-radius: 5px;
+   margin-bottom: 20px;
+   border: 2px solid black;
+}
+
+#img h2 {
+   font-size: 24px;
+   color: #333;
+}
+
+#img p {
+   font-size: 16px;
+   line-height: 1.6;
+   color: #555;
+}
+
+
+
+button {
+   padding: 10px 20px;
+   font-size: 1em;
+   background-color: rgb(238, 34, 156);
+   color: #fff;
+   border: none;
+   border-radius: 4px;
+   cursor: pointer;
+}
+
+button:hover {
+   background-color: #b30065;
+}
